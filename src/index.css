@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-secondary {
+  @apply font-thin text-gray-400;
+}
+
+li {
+  list-style-type: none;
+}
